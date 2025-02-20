@@ -1,3 +1,4 @@
+import math
 class Solutions:
     def climbStairs(self, n: int) -> int:
         """Climbing stairs: Closed form solution"""
